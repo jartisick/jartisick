@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy José Ángel Rodríguez Torres</h1>
-<h3 align="center">Frontend developer de Barquisimeto, Venezuela</h3>
+<h1 align="center">Hi 👋, I'm José Ángel Rodríguez Torres</h1>
+<h3 align="center">Frontend developer from Barquisimeto, Venezuela</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 
